@@ -1,2 +1,3 @@
 # game
 Game
+hacktoberfest-accepted
